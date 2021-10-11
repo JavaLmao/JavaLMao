@@ -1,16 +1,25 @@
-### Hi there 👋
+from GitHub import ReadMe
 
-<!--
-**JavaLmao/JavaLMao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+class Java(ReadMe):
+    "/JavaLmao/JavaLmao/README.md"
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    def __init__(self):
+        self.username = "Java"
+        self.contacts = {
+            "Discord": "Java#0009",
+            "Telegram": ColinDMV
+        }
+        self.alises = [
+            "JavaLmao",
+            "Drip"
+        ]
+        self.location = "D.C USA"
+        self.age = "14, Born January 25th 2007"
+        self.occupation = "Student Developer"
+        self.projects = {
+            "public": {
+                  "total": 5,
+                  "location": "github.com/JavaLmao?tab=repositories"
+            }
+        }
+        self.operating_system = "Windows, Ubuntu"
