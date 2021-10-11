@@ -20,7 +20,7 @@ class Java(ReadMe):
         self.occupation = "Student Developer"
         self.projects = {
             "public": {
-                  "total": 5,
+                  "total": To Many,
                   "location": "github.com/JavaLmao?tab=repositories"
             }
         }
