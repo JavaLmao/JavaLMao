@@ -9,7 +9,7 @@ class Java(ReadMe):
             "Discord": "Java#0009",
             "Twitter": "JavaLmao",
             "Instagram": "colin.dmv",
-            "Telegram": ColinDMV
+            "Telegram": "ColinDMV"
         }
         self.alises = [
             "JavaLmao",
