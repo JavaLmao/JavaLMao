@@ -7,6 +7,8 @@ class Java(ReadMe):
         self.username = "Java"
         self.contacts = {
             "Discord": "Java#0009",
+            "Twitter": "JavaLmao",
+            "Instagram": "colin.dmv",
             "Telegram": ColinDMV
         }
         self.alises = [
